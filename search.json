@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Feel free to take a look at my resume below!"
+  },
+  {
+    "objectID": "index.html#my-resume",
+    "href": "index.html#my-resume",
+    "title": "Home",
+    "section": "",
+    "text": "Feel free to take a look at my resume below!"
+  },
+  {
+    "objectID": "index.html#links",
+    "href": "index.html#links",
+    "title": "Home",
+    "section": "Links",
+    "text": "Links\n\nLinkedIn\n\n\nGithub"
+  },
+  {
+    "objectID": "about.html#contact-information",
+    "href": "about.html#contact-information",
+    "title": "About Me",
+    "section": "Contact Information:",
+    "text": "Contact Information:\nEmail: angelodesiderio20@gmail.com\nPhone: 661-492-5784\n\nAbout me: Hello! I’m Angelo and welcome to my website. For as long as I can remember, I have been drawn to data. Currently pursuing a Bachelor of Science in Statistics & Data Science at UCLA, I have applied my analytic expertise in various roles, including my time as a Data Analyst at UCLA Tennis Consulting and a Data Assistant for the City of Lancaster. My experience includes designing interactive dashboards in Tableau, conducting multivariate statistical analysis in RStudio and Python, and automating data processes using SQL. I tend to thrive in environments where I can solve complex problems and deliver impactful recommendations. With a lifelong interest in continuous learning, I am committed to leveraging data for the purpose of being able to tell a story with it.\nCareer aspirations: With an approaching graduation date around the corner (March 2025), I have numerous routes to potentially go down. But as of now one of the goals is to become a data engineer specifically within the healthcare industry. But I’m still open to the possibility of continuing my education through graduate school, as I would like to explore fields that combine my pre-existing knowledge from my undergrad degree an example being bio-statistics or epidemiology."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "This is a catalog of the previous projects I’ve worked on which is a mix sourced from both my professional and academic experience (in reverse chronological order):"
+  },
+  {
+    "objectID": "projects.html#summer-kaggle-competition-stats101c",
+    "href": "projects.html#summer-kaggle-competition-stats101c",
+    "title": "Projects",
+    "section": "Summer Kaggle Competition STATS101C",
+    "text": "Summer Kaggle Competition STATS101C\n\n\n\nRole: Group Member\nDescription: As part of a class final, I was a group member in a summer Kaggle event. Ultimately placing 3rd place overall in a 18 team competition. In the PDF some the main objectives and additional contextual information is included on the first page. Lastly names of my group members have been removed to protect sensitive information."
+  },
+  {
+    "objectID": "projects.html#datafest-2024",
+    "href": "projects.html#datafest-2024",
+    "title": "Projects",
+    "section": "DataFest 2024",
+    "text": "DataFest 2024\n\n\n\nRole: Team Lead\nDescription: Above is my team’s submission for 2024’s DataFest. We used a combination of Rstudio and Tableau in order to create the insights and visualizations, Unfortunately we did not receive an award but still were able to learn valuable skills such as team coordination and being able to work technically with R."
+  },
+  {
+    "objectID": "projects.html#ufc-research-project",
+    "href": "projects.html#ufc-research-project",
+    "title": "Projects",
+    "section": "UFC Research Project",
+    "text": "UFC Research Project\n\n\n\nRole: Project creator\nDescription As part of my final project in my Intro to Data Analysis and Regression course I personally picked this dataset as I happen to watch the UFC for personal enjoyment so I thought it would be interesting to do some research on it since the data was available."
+  }
+]
